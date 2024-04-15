@@ -3,9 +3,9 @@ Description
 Group Financial Data Processing assignment.
 
 # Authors
-- Developer 1: {Enter Student Name Here}
-- Developer 2: {Enter Student Name Here}
-- Developer 3: {Enter Student Name Here}
+- Developer 1: Bibekdeep singh
+- Developer 2: Nandini kalsi
+- Developer 3: Jasleen kaur
 
 # Milestone 1
 ## Developer 1 Tasks (Issue 1):
